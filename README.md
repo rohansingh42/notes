@@ -1,1 +1,3 @@
 # notes
+
+pip install error: cannot import name main - use python -m pip install....
